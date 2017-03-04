@@ -1,0 +1,69 @@
+		LIVERPOOL
+FOUNDED IN: 1892
+
+
+POSITION LAST SEASON: 7
+
+
+OWNER: John W Henry.
+
+
+MANAGER: Brendan Rodgers 
+
+
+HOME STADIUM: Anfield
+
+
+MAIN PLAYERS: Steven Gerrard,
+	      Luis Suarez,
+	      Philippe Coutinho. 
+	      
+
+LEGENDS: Fernando "el nino" Torres,
+	 Kenny Dalglish,
+         Steven Gerrard	
+	 Xabi Alonso.     
+              
+
+TROPHIES:  FA Cups-7,
+	     League Cups-8,
+	     Community shields-15,
+	     Super Cups-1,
+	     UEFA Champions League-5,
+	     UEFA Cup-3,
+	    UEFA Super Cup-3.
+
+
+TRANSFERS:
+
+	PLAYERS BOUGHT:
+	----------------------------------------------------
+	|NAME             |BOUGHT FROM       |TRANSFER FEE  |
+	-----------------------------------------------------	
+	|Kolo Toure       |Manchester City   |Free          |
+	|Luis Alberto 	  |Sevilla           |Undisclosed   |
+	|Iago Aspas       |Celta Vigo	     |Undisclosed   |
+	|Simon Mignolet   |Sunderland        |Undisclosed   |
+	|Aly Cissokho     |Valencia          |Loan          |
+	|Tiago Ilori      |Sporting Lisbon   |Undisclosed   |	
+	|Mamadou Sakho    |Paris St Germain  |Undisclosed   |
+	|Victor Moses     |Chelsea           |Loan          |
+        -----------------------------------------------------
+   
+    
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Danny Wilson     |Heart of Midlothian |Free        |
+	|Jonjo Shelvey    |Swansea City        |Undisclosed |
+	|Suso             |Almeria             |Loan        |
+	|Pepe Reina       |Napoli              |Loan        |
+	|Jay Spearing     |Bolton Wanderers    |Undisclosed |
+	|Stewart Downing  |West Ham United     |Undisclosed |
+	|Oussama Assaidi  |Stoke City          |Loan 	    |
+	|Daniel Pacheco   |AD Alcorcon	       |Undisclosed |
+	|Fabio Borini     |Sunderland          |Loan        |
+        -----------------------------------------------------
+
+        -----------------------------------------------------

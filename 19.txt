@@ -1,0 +1,50 @@
+		WEST BROMWICH ALBION
+FOUNDED IN: 1878
+
+POSITION LAST SEASON: 8TH
+
+OWNER: 
+
+MANAGER: Steve Clarke
+
+HOME STADIUM: The Hawthorns
+
+MAIN PLAYERS: Shane Long,
+	      Nicolas Anelka,
+	      Scott Sinclair
+
+LEGENDS: 
+
+TROPHIES: Leagues - 
+	  FA Cup - 
+	  League Cup - 
+	  Community Shield - 
+	  European - 
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------
+	|	NAME	   |	BOUGHT FROM	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Nicolas Anelka    |   			|Free			 |
+	|Goran Popov 	   |Dynamo Kiev 	| 
+	|Diego Lugano 	   |Paris St Germain	|Free			 |
+	|Matej Vydra 	   |Udinese 		|
+	|Zoltan Gera	   |			|Free			 |
+	|Scott Sinclair    |Manchester City 	|Loan			 |
+	|Morgan Amalfitano |Marseille		|Loan 			 |
+	|Lee Camp 	   |			|Free			 |
+	|Stephane Sessegnon|Sunderland		|
+	|Victor Anichebe   |Everton		|
+	------------------------------------------------------------------
+
+	
+	PLAYERS SOLD:
+	------------------------------------------------------------------
+	|	NAME	     |	 SOLD TO	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Marc Antoine-Fortune|Wigan Athletic    |Free			 |
+	|Gonzalo Jara        |Nottingham Forest |Free			 |
+	|Jerome Thomas 	     |Crystal Palace	|Free			 |
+	------------------------------------------------------------------

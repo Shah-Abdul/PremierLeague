@@ -1,0 +1,44 @@
+		MANCHESTER UNITED
+FOUNDED IN: 1878
+
+POSITION LAST SEASON: 1ST
+
+OWNER: Manchester United plc
+
+MANAGER: David Moyes
+
+HOME STADIUM: Old Trafford
+
+MAIN PLAYERS: Wayne Rooney,
+	      Robin Van Persie,
+	      Nemanja Vidic
+
+LEGENDS: George Best,
+	 Eric Cantonna,
+         Sir Bobby Charlton
+
+TROPHIES: Leagues - 20
+	  FA Cup - 11
+	  League Cup - 4
+	  Community Shield - 20
+	  European - 5
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------
+	|	NAME	  |	BOUGHT FROM	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Guillermo Varela |Atletico Penarol     |
+	|Marouane Fellaini| Everton		| 
+	------------------------------------------------------------------
+
+	
+	PLAYERS SOLD"
+	------------------------------------------------------------------
+	|	NAME	  |	 SOLD TO	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Scott Wootton    |Leeds United	 	| Undisclosed
+	|Angelo Henriquez |Real Zaragoza	| Loan
+	|Nick Powell 	  |Wigan Athletic	| Loan
+	------------------------------------------------------------------

@@ -1,0 +1,57 @@
+			ARSENAL
+FOUNDED IN: 1886
+
+POSITION LAST SEASON: 4th
+
+OWNER: Arsenal Holdings PLC
+
+MANAGER: Arsene Wenger
+
+HOME STADIUM: Emirates stadium
+
+MAIN PLAYERS: Mesut Ozil,
+	      Jack Wilshere,
+	      Santi Cazorla
+
+LEGENDS: Thierry Henry,
+	   Cesc Fabregas,
+         	   Dennis Bergkamp.     
+              
+TROPHIES: 13 Leagues, 
+	    10 FA Cups, 
+	    2 League Cups, 
+	    12 Community shields, 
+	    2 European Cups.
+
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------------
+	|NAME              |   BOUGHT FROM  |  TRANSFER FEE  |
+	------------------------------------------------------------------------	
+	|Yaya Sanogo      | Auxerre     	          | Free                       |
+	|Mathieu Flamini  | AC Milan  	          | free                        |	
+	|Emiliano Viviano | Palermo     	          | Loan                      |
+	|Mesut Ozil          | Real Madrid           | £42.5 mil                |
+                ----------------------------------------------------------------------- 
+
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME                 |    SOLD TO               |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Andrey Arshavin  |  Zenit St Petersberg | Free       |
+	|Francis Coquelin   |    Freiburg            | Loan       |
+	|Denilson               |Sao Paulo	       | Free       |
+	|Johan Djourou      |Hamburg             | Loan       |
+	|Craig Eastmond    |Colchester United   | Free       |
+	|Kyle Ebecilio        |Twente	       | Free       |
+	|Vito Mannone       |Sunderland	       |Undisclosed |
+	|Sebasten Squillaci  | Released          |	    |
+	|Sanchez Watt     |Colchester United   | Free       |
+	|Jordan Wynter    |Bristol City	       | Free       |
+	|Jernade Meade    |Swansea City	       | Free       |
+	|Andre Santos     |Flamengo	       | Undisclosed|
+	|Gervinho         |Roma 	       |Undisclosed |
+	|Marouane Chamakh |Crystal Palace      | Undisclosed|
+        -----------------------------------------------------

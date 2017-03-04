@@ -1,0 +1,53 @@
+		SOUTHAMPTON
+FOUNDED IN: 1885
+
+POSITION LAST SEASON: 14
+
+OWNER: 
+
+MANAGER: Mauricio Pochhettino 
+
+HOME STADIUM: St.Mary's Stadium
+
+MAIN PLAYERS: Lovren,
+	      Pablo Osvaldo,
+	      Lallana.	
+	      	
+LEGENDS: 
+         	     
+TROPHIES: FA Cups-4,
+ 	  League Cups-1,
+	  Community Shields-1,
+	  Leagues-1.
+
+	
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	--------------------------------------------------------
+	|NAME                 |BOUGHT FROM       |TRANSFER FEE  |
+	---------------------------------------------------------	
+	|Dejan Lovren         |Lyon              |Undisclosed   |
+	|Victor Wanyama       |Celtic 		 |Undisclosed   |
+	|Pablo Daniel Osvaldo |AS Roma		 |Undisclosed   |
+	---------------------------------------------------------
+       
+      
+	PLAYERS SOLD:
+	----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	----------------------------------------------------	
+	|Frazer Richardson |Middlesbrough      |Free        |
+	|Danny Butterfield |Carlisle United    |Free        |
+	|Dan Seaborne 	   |Yeovil Town        |Free        |
+	|Ryan Dickson      |Colchester United  |Free        |
+	|Ben Reeves 	   |Milton Keynes Dons |Free        |
+	|Sam Hoskins 	   |Yeovil Town	       |Free	    |
+	|Richard Chaplow   |Millwall 	       |Free 	    |
+	|Vegard 	   |Forren (Molde FK)  |Undisclosed |
+	|Steve De Ridder   |FC Utrecht 	       |Free        |
+	|Jason Puncheon    |Crystal Palace     |Loan	    |
+	|Dean Hammond 	   |Leicester City     |Undisclosed |
+	|Emmanuel Mayuka   |Sochaux 	       |Loan	    |
+        -----------------------------------------------------

@@ -1,0 +1,49 @@
+		WEST HAM UNITED
+FOUNDED IN: 1895
+
+POSITION LAST SEASON: 10TH
+
+OWNER: David Sullivan 55.6%
+       David Gold 30.6%
+       CB Holding Ltd. 10%
+       Minority Investors 3.8%
+
+MANAGER:Sam Allardyce
+
+HOME STADIUM: The Boleyn Ground
+
+MAIN PLAYERS: Joe Cole
+	      Kevin Nolan
+	      Mark Noble
+
+LEGENDS: Frank Lampard
+	 Michael Carrick
+
+TROPHIES: FA Cup - 3
+	  League Cup - 2
+	  Community Shield - 1
+	  European - 2
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------
+	|	NAME	  |	BOUGHT FROM	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Razvan Rat 	  |Shakhtar Donetsk     |
+	|Adrian		  |Everton  		| 
+	|Andy Carroll 	  |Liverpool		|
+	|Danny Whitehead  |Stockport County	|
+	|Stewart Downing  |Liverpool		|
+	|Mladen Petric	  |			|
+	------------------------------------------------------------------
+
+	
+	PLAYERS SOLD:
+	------------------------------------------------------------------
+	|	NAME	  |	 SOLD TO	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Carlton Cole     |		 	| Undisclosed
+	|Gary O'Neil 	  |Queens Park Rangers	| Loan
+	|Nick Powell 	  |Bolton Wanderers	| £450k
+	------------------------------------------------------------------

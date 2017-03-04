@@ -1,0 +1,50 @@
+		EVERTON
+FOUNDED IN: 1878
+
+POSITION LAST SEASON: 6th
+
+OWNER:  Bill Kenwright 
+
+MANAGER: Roberto Martinez
+
+HOME STADIUM:  Goodison Park
+
+MAIN PLAYERS: Leighton Baines,
+	      Mirallas,
+	      Ross Barkley.
+	     
+
+LEGENDS:  W R Dean,
+	    Colin Harvey,
+	    Barry Horne.	
+              
+TROPHIES: 
+
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	----------------------------------------------------
+	|NAME             |BOUGHT FROM       |TRANSFER FEE  |
+	-----------------------------------------------------	
+	|Arouna Kone      |Wigan Athletic    |Undisclosed   |
+	|Antolin Alcaraz  |Wigan Athletic    |Free          |
+	|Joel Robles 	  |Atletico Madrid   |Undisclosed   |
+	|Gerard Deulofeu  |Barcelona         |Loan 	    |
+	|James McCarthy   |Wigan Athletic    |£12m          |
+	|Romelu Lukaku    |Chelsea	     |Loan          |
+	|Gareth Barry     |Manchester City   |Loan          |
+        -----------------------------------------------------       
+  	
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Thomas Hitzlspeger|                   |Released    |
+	|Jan Mucha        |     	       |Released    |
+	|Jake Bidwell 	  |Brentford	       |Undisclosed |
+	|Marouane Fellaini|Manchester United   |25Mil       |
+	|Victor Anichebe  |West Bromwich Albion|Undisclosed |
+        -----------------------------------------------------
+      
+

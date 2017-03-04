@@ -1,0 +1,49 @@
+		STOKE CITY
+FOUNDED IN: 1863
+
+POSITION LAST SEASON: 13
+
+OWNER: 
+
+MANAGER: Mark Hughes 
+
+HOME STADIUM: Britannia Stadium
+
+MAIN PLAYERS: Peter Crouch,
+	      Ryan Shawcross,
+	      Charlie Adams.
+	      	
+LEGENDS: 
+         	     
+TROPHIES:
+
+	
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	--------------------------------------------------------
+	|NAME                 |BOUGHT FROM       |TRANSFER FEE  |
+	---------------------------------------------------------	
+	|Erik Pieters 	      |PSV Eindhoven 	 |3.6m euros    |
+	|Marc Muniesa 	      |Barcelona 	 |Free 		|
+	|Oussama Assaidi      |Liverpool	 |Loan          |
+	|Marko Arnautovic     |Werder Bremen     |Undisclosed   |
+	|Stephen Ireland      |Aston Villa       |Loan 		|
+	---------------------------------------------------------
+       
+      
+	PLAYERS SOLD:
+	----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	----------------------------------------------------	
+    	|Dean Whitehead   |Middlesbrough       |Free        |
+	|Matthew Upson 	  |Brighton&Hove Albion|Free        |
+	|Rory Delap 	  |Burton Albion       |Free	    |
+	|Mamady Sidibe    |		       |Released    |
+	|Carlo Nash       |Norwich City	       |Free	    |
+	|Matthew Lund     |Rochdale	       |Free	    |
+	|Florent Cuvelier |Sheffield United    |Undisclosed |
+	|Michael Kightly  |Burnley             |Loan        |
+	|Cameron Jerome   |Crystal Palace      |Loan 	    |
+	-----------------------------------------------------

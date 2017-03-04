@@ -1,0 +1,58 @@
+		CHELSEA FOOTBALL CLUB
+FOUNDED IN: 1905
+
+POSITION LAST SEASON: 3rd
+
+OWNER: Roman Abramovich 
+
+MANAGER: Jose Mourinho
+
+HOME STADIUM: Stamford Bridge
+
+MAIN PLAYERS: Frank Lampard,
+	      John Terry,
+	      Petr Cech,
+	      Ashley Cole.
+	      
+LEGENDS: Gianfranco Zola,
+	 Didier Drogba,
+	 Ron 'Chopper' Harris       
+              
+TROPHIES: 
+
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	----------------------------------------------------
+	|NAME             |BOUGHT FROM       |TRANSFER FEE  |
+	-----------------------------------------------------	
+        |Andre Schurrle   |Bayer Leverkusen  | £18 mil       |     
+        |Mario van Ginkel |Vitesse Arnhem    | £8  mil       |
+        |Mark Schwarzer   |Fulham            | Free         |
+        |Cristian Cuevas  |O'Higgins         | Undisclosed  |
+        |Willian          |Anzhi Makhachkala | £30 mil       |     
+        |Samuel Eto'o     |Anzhi Makhachkala | Free         | 
+        |Christian Atsu   |Porto             | Undisclosed  |
+        -----------------------------------------------------
+
+PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Yossi Benayoun   |Released            |            |
+        |Florent Malouda  |Trabzonspor         |Free        |
+        |Paulo Ferreira   |Released            |            |
+        |Ross Turnbull    |Doncaster Rovers    |Free        |
+        |Thibaut Courtois |Atletico Madrid     |Loan        |
+        |Marko Marin      |Sevilla             |Loan        |
+        |Oriol Romeu      |Valencia            |Loan        |
+        |Wallace          |Inter Milan         |Loan        |
+        |Christian Atsu   |Vitesse Arnhem      |Loan        |
+        |Victor Moses     |Liverpool           |Loan        | 
+        |Romelu Lukaku    |Everton             |Loan        |
+        -----------------------------------------------------
+
+
+	
+        

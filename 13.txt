@@ -1,0 +1,53 @@
+		NORWICH CITY
+FOUNDED IN: 1902
+
+POSITION LAST SEASON: 11
+
+OWNER: 
+
+MANAGER: 
+
+HOME STADIUM: Carrow Road
+
+MAIN PLAYERS: Pilkington,
+	      Wolfwinkel,
+	      Ruddy	
+LEGENDS: 
+         	     
+TROPHIES: 
+
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	--------------------------------------------------------
+	|NAME                 |BOUGHT FROM       |TRANSFER FEE  |
+	---------------------------------------------------------	
+	|Ricky Van Wolfswinkel|Sporting Lisbon   |Undisclosed   | 
+	|Javier Garrido       |Lazio             |Undisclosed   |
+	|Nathan Redmond       |Birmingham City   |Undisclosed   |
+	|Carlo Nash           |Stoke City	 |Free 		|
+	|Martin Olsson 	      |Blackburn Rovers  |Undisclosed   |
+	|Leroy Fer            |FC Twente	 |Undisclosed   |
+	|Gary Hooper 	      |Celtic   	 |Undisclosed   |
+	|Johan Elmander       |Galatasaray       |Loan 		|
+        ---------------------------------------------------------
+      
+   	
+	PLAYERS SOLD:
+	----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	----------------------------------------------------	
+	|Chris Martin     |Derby County        |Free        |
+	|Simeon Jackson   |Eintracht Braunschweig|Free      |
+	|Lee Camp 	  |West Bromwich Albion|Free        |
+	|Marc Tierney     |Bolton Wanderers    |Free	    |
+	|Elliott Ward     |AFC Bournemouth     |Free        |
+	|Tom Adeyemi      |Birmingham City     |Free        |
+	|Jed Steer        |Aston Villa         |Free        |
+	|James Vaughan    |Huddersfield Town   |Undisclosed |
+	|Grant Holt       |Wigan Athletic      |Undisclosed |
+	|Andrew Surman    |AFC Bournemouth     |Loan        |
+	|Leon Barnett     |Wigan Athletic      |Undisclosed |
+	|Jacob Butterfield|Middlesbrough       |Undisclosed |
+        -----------------------------------------------------

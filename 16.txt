@@ -1,0 +1,58 @@
+		SUNDERLAND
+FOUNDED IN: 1879
+
+POSITION LAST SEASON: 17
+
+OWNER: 
+
+MANAGER: Gus Poyet 
+
+HOME STADIUM: Stadium of Light
+
+MAIN PLAYERS: Adam Johnson,
+	      Craig Gardner,
+	      Jozy Altidore.	
+
+LEGENDS: 
+         	     
+TROPHIES:
+
+	
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	--------------------------------------------------------
+	|NAME                 |BOUGHT FROM       |TRANSFER FEE  |
+	---------------------------------------------------------	
+	|Cabral 	      |Basle		 |Free          |
+	|Modibo Diakite       |Lazio 		 |Free 		|
+	|Valentin Roberge     |Maritimo		 |Free          |
+	|David Moberg Karlsson|IFK Goteborg      |Undisclosed   |
+	|Vito Mannone 	      |Arsenal		 |Undisclosed   |
+	|Jozy Altidore 	      |AZ Alkmaar 	 |Undisclosed   |
+	|El Hadji Ba 	      |Le Havre 	 |Free          |
+	|Emanuele Giaccherini |Juventus		 |Undisclosed   |
+	|Ondrej Celustka      |Trabzonspor 	 |Loan 		|
+	|Charis Mavrias       |Panathinaikos	 |Undisclosed   |
+	|Ki Sung-Yeung 	      |Swansea City	 |Loan  	|
+	|Andrea Dossena       |Napoli		 |Undisclosed   |
+	|Fabio Borini 	      |Liverpool	 |Loan 		|
+	---------------------------------------------------------
+       
+      
+	PLAYERS SOLD:
+	----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	----------------------------------------------------	
+	|Titus Bramble    |		       |Released    |
+	|Matthew Kilgallon|Blackburn Rovers    |Free	    |
+	|Ryan Noble 	  |		       |Released    |
+	|Simon Mignolet   |Liverpool	       |Undisclosed |
+	|Ahmed Elmohamady |Hull City	       |Undisclosed |
+	|Danny Graham     |Hull City	       |Loan 	    |
+	|Alfred N'Diaye   |Eskisehirspor       |Loan	    |
+	|James McClean 	  |Wigan Athletic      |Undisclosed |
+	|Ben Wilson 	  |Accrington Stanley  |Free	    |
+	|Stephane Sessegnon|West Brom 	       |Undisclosed |
+	-----------------------------------------------------

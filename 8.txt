@@ -1,0 +1,49 @@
+		HULL CITY
+FOUNDED IN: 1904
+
+POSITION LAST SEASON: -
+
+OWNER: Assem Allam
+
+MANAGER: Steve Bruce
+
+HOME STADIUM:  KC Stadium
+
+MAIN PLAYERS: Maynor Figueroa,
+	      Curtis Davies,	 
+	      Danny Graham.
+	      
+LEGENDS: Raich Carter      
+              
+TROPHIES: -
+
+TRANSFERS:
+
+	PLAYERS BOUGHT:
+	-----------------------------------------------------
+	|NAME                |BOUGHT FROM       |TRANSFER FEE|
+	-----------------------------------------------------	
+	|George Boyd         |Peterborough United| Free      |
+	|Maynor Figueroa     |Wigan Athletic     | Free      |
+	|Curtis Davies       |Birmingham City    |Undisclosed|
+	|Ahmed Elmohamady    |Sunderland         |Undisclosed|
+	|Allan McGregor      |Besiktas           |Undisclosed|
+	|Steve Harper 	     |Newcastle United   |Free       |
+	|Danny Graham        |Sunderland	 |Loan       |
+	|Yannick Sagbo 	     |Evian	         |undisclosed|
+	|Tom Huddlestone     |Tottenham Hotspur  |Undisclosed|
+	|Jake Livermore      |Tottenham Hotspur  |Loan       |
+	----------------------------------------------------- 
+
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Sonny Bradley    |Portsmouth	       |Free        |
+	|Danny East       |Portsmouth          |Free        |
+	|Seyi Olofinjana  |                    |Released    |
+	|Jay Simpson      |                    |Released    |
+	|Andy Dawson 	  |Scunthorpe United   |Free        |
+	|Mark Oxley       |Oldham Athletic     |Loan        |
+	|Corry Evans      |Blackburn Rovers    |Undisclosed |
+        -----------------------------------------------------

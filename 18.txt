@@ -1,0 +1,60 @@
+		TOTTENHAM HOTSPURS
+		
+FOUNDED IN: 1882
+
+POSITION LAST SEASON: 5TH
+
+OWNER: ENIC International Ltd.
+
+MANAGER: André Villas-Boas
+
+HOME STADIUM: White Hart Lane,
+	      Tottenham, London
+
+MAIN PLAYERS: Jan Vertonghen,
+	      Christian Eriksen,
+	      Andres Townsend
+
+LEGENDS: Gareth Bale,
+	 Jermaine Defoe,
+	 Michael Dawson
+	 
+
+TROPHIES: FA Cup - 8
+	  League Cup - 4
+	  Community Shield - 7
+	  European - 4
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------
+	|	NAME	   |	BOUGHT FROM	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Paulinho 	   |Corinthians		|Undisclosed 		 |
+	|Nacer Chadli 	   |FC Twente		|Undisclosed 		 |
+	|Roberto Soldado   |Valencia 		|Undisclosed 		 |
+	|Etienne Capoue    |Toulouse		|Undisclosed 		 |
+	|Vlad Chiriches    |Steaua Bucharest 	|Undisclosed		 |
+	|Erik Lamela       |Roma		|Undisclosed		 |
+	|Christian Eriksen |Ajax		|Undisclosed		 |
+	------------------------------------------------------------------
+
+	
+	PLAYERS SOLD:
+	------------------------------------------------------------------
+	|	NAME	     |	 SOLD TO	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Nathan Byrne 	     |Swindon Town      |Free			 |
+	|David Bentley	     |			|Released		 |
+	|John Bostock 	     |			|Released		 |
+	|William Gallas      |			|Released		 |
+	|Steven Caulker      |Cardiff City	|Undisclosed		 |
+	|Clint Dempsey 	     |Seattle Sounders  |Undisclosed		 |
+	|Tom Huddlestone     |Hull City 	|Undisclosed 		 |
+	|Jake Livermore      |Hull City		|Loan			 |
+	|Scott Parker 	     |Fulham		|Undisclosed		 |
+	|Gareth Bale 	     |Real Madrid	|100m			 |
+	|Tom Carroll 	     |QPR		|Loan			 |
+	|Benoit Assou-Ekotto |QPR		|Loan			 |
+	------------------------------------------------------------------

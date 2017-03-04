@@ -1,0 +1,53 @@
+		SWANSEA CITY 
+		
+FOUNDED IN: 1912
+
+POSITION LAST SEASON: 9TH
+
+OWNER: 
+
+MANAGER: Michael Laudrup
+
+HOME STADIUM: Liberty Stadium
+
+MAIN PLAYERS: Michu,
+	      Wilfried Boney,
+	      Jonjo Shelvey
+
+LEGENDS: 
+	 
+
+TROPHIES: FA Cup - 
+	  League Cup - 
+	  Community Shield - 
+	  European - 
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	------------------------------------------------------------------
+	|	NAME	   |	BOUGHT FROM	|	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Jose Canas 	   |Real Betis	 	|Free 			 |
+	|Jordi Amat 	   |Espanyol		|£2.5m 			 |
+	|Jonathan De Guzman|Villarreal 		|Loan 			 |
+	|Gregor Zabret     |NK Domzale	 	|Undisclosed		 |
+	|Alex Gogic 	   |Olympiakos 		|Undisclosed		 |
+	|Alejandro Pozuelo |Real Betis		|Undisclosed 		 |
+	|Jonjo Shelvey 	   |Liverpool           |Undisclosed 		 |
+	|Wilfred Bony  	   |Vitesse Arnhem 	|£12m			 |
+	|Jernade Meade 	   |Arsenal 		|Free			 |
+	|Dwight Tiendalli  |Unattached 		|Free			 |
+	|Alvaro Vazquez    |Getafe 		|Loan			 |
+	------------------------------------------------------------------
+
+	
+	PLAYERS SOLD:
+	------------------------------------------------------------------
+	|	NAME	     |	 SOLD TO	    |	TRANSFER FEE	 |
+	------------------------------------------------------------------
+	|Mark Gower 	     |Charlton Athletic     |Free		 |
+	|Kyle Bartley 	     |Birmingham City	    |Loan		 |
+	|Kemy Agustien 	     |Brighton & Hove Albion|Free		 |
+	|Luke Moore 	     |			    |Mutual Consent	 |
+	------------------------------------------------------------------

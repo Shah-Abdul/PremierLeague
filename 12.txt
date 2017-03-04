@@ -1,0 +1,42 @@
+		NEWCASTLE UNITED
+FOUNDED IN: 1892
+
+POSITION LAST SEASON: 16
+
+OWNER: 
+
+MANAGER: Alan Pardew 
+
+HOME STADIUM: St. James's Park
+
+MAIN PLAYERS: Papiss Cisse,
+	      Hatem Ben Arfa,
+	      Fabricio Coloccini. 
+	      
+LEGENDS: Michael Owen,
+	 Alan Shearer.
+         	     
+TROPHIES: 
+
+TRANSFERS:
+
+
+	PLAYERS BOUGHT:
+	----------------------------------------------------
+	|NAME             |BOUGHT FROM       |TRANSFER FEE  |
+	-----------------------------------------------------	
+	|Olivier Kemen    |Metz              |Undisclosed   |
+	|Loic Remy 	  |Queens Park Rangers| Loan        |
+        -----------------------------------------------------
+   
+
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Steve Harper     |Hull City           |Free        |
+	|Danny Simpson    |Queens Park Rangers |Free        |
+	|James Perch      |Wigan Athletic      |Undisclosed |
+	|Mehdi Abeid      |Panathinaikos       |Loan        |
+	|Brad Inman 	  |Crewe Alexandra     |Undisclosed |
+        -----------------------------------------------------

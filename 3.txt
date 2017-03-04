@@ -1,0 +1,43 @@
+		CARDIFF CITY
+FOUNDED IN: 1899
+
+POSITION LAST SEASON: -
+
+OWNER:  Vincent Tan
+
+MANAGER: Malky Mackay
+
+HOME STADIUM: Cardiff city stadium
+
+MAIN PLAYERS: Frazier Campbell,
+	      Steven Caulker,
+	      Craig Bellamy.
+	
+LEGENDS:  Dave Bennett,
+	    Jeff Hemmerman,     
+              
+TROPHIES: - 
+
+TRANSFERS:
+
+	PLAYERS BOUGHT:
+	----------------------------------------------------
+	|NAME             |BOUGHT FROM       |TRANSFER FEE  |
+	-----------------------------------------------------	
+        |Andreas Cornelius|Copenhagen        | Undisclosed  |
+        |John Brayford    |Derby County      | Undisclosed  |
+        |Simon Moore      |Brentford         | Undisclosed  |
+        |Steven Caulker   |Tottenham Hotspur | Undisclosed  |
+        |Gary Medel       |Sevilla           | Undisclosed  |
+        |Kevin Theophile  |Rennes            | Undisclosed  |
+        |Maximiliano      |CA Progreso       | Undisclosed  |
+        |Peter Odemwingie |West Brom         | Undisclosed  |
+        -----------------------------------------------------
+
+	PLAYERS SOLD:
+	-----------------------------------------------------
+	|NAME             |SOLD TO             |TRANSFER FEE|  
+	-----------------------------------------------------	
+	|Heidar Helguson  |Released            |            |
+        |Stephen McPhail  |Released            |            |
+        -----------------------------------------------------

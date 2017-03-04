@@ -1,0 +1,48 @@
+		MANCHESTER CITY
+FOUNDED IN: 1892
+
+POSITION LAST SEASON: 2nd
+
+OWNER: Mansour bin Zayed Al Nahyan
+
+MANAGER: Manuel Pellegrini
+
+HOME STADIUM: City of Manchester Stadium
+
+MAIN PLAYERS: Sergio Aguero,
+              Yaya Toure,
+              David Silva,
+              Pablo Zabaleta
+
+LEGENDS: Carlos Tevez,
+         Robinho,
+	 Micah Richards
+
+TROPHIES: Leagues - 3
+	  FA Cup - 5
+	  Community Shield - 4
+	  European - 1
+
+TRANSFERS: 
+
+	PLAYERS BOUGHT:
+	-------------------------------------------------------------------------------------------
+	|	NAME	  |	BOUGHT FROM	 |   TRANSFER FEE  |
+	-------------------------------------------------------------------------------------------
+	|Fernandinho               |Shakhtar Donetsk      	|  £ 30 mil    	 |
+	|Jesus Navas              |Sevilla   		 	|  £ 15 mil		 |
+	|Alvaro Negredo         |Sevilla 		 	|  £ 16.4 mil	 |
+	|Stevan Jovetic            |Fiorentina 		|  £ 22 mil	 	 |
+	|Martin Demichelis      |Atletico Madrid	 	|  £ 4.2 mil		 |
+	-------------------------------------------------------------------------------------------
+	
+	PLAYERS SOLD:
+	---------------------------------------------------------------------
+	|	NAME	  |          SOLD TO	 |   TRANSFER FEE 	    |
+	---------------------------------------------------------------------
+	|Kolo Toure           	 |Liverpool      	 | Free 
+	|Wayne Bridge     	 |Sevilla   		 |Undisclosed
+	|Alvaro Negredo   	 |Sevilla 		 |Undisclosed 
+	|Stevan Jovetic   	 |Fiorentina 		 |Undisclosed 
+	|Martin Demichelis     |Atletico Madrid	 |Undisclosed 
+	---------------------------------------------------------------------
